@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAMPApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="mfa_String">My First App</string>
+</resources>
